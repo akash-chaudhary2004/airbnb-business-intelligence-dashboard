@@ -247,14 +247,13 @@ airbnb-business-intelligence-dashboard/
 
 ## Airbnb Market Analysis Dashboard
 
-![Dashboard 1](images/dashboard_1.png)
+![Dashboard 1](airbnb-business-intelligence-dashboard/images/dashboard_1.png)
 
 ---
 
 ## Geographic Analysis Dashboard
 
-![Dashboard 2](images/dashboard_2.png)
-
+![Dashboard 2](airbnb-business-intelligence-dashboard/images/dashboard_2.png)
 ---
 
 # Live Tableau Dashboard
